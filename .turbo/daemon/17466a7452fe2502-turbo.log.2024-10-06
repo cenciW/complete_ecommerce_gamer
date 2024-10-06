@@ -1,0 +1,28 @@
+2024-10-06T14:10:23.677196Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-10-06T14:10:24.387961Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-10-06T14:10:24.388029Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-10-06T14:10:29.896102Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\frontend\\.next")}
+2024-10-06T14:10:29.896124Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ecommerce_gamer"), path: AnchoredSystemPathBuf("apps\\frontend") }}))
+2024-10-06T14:10:30.593126Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\frontend\\.next")}
+2024-10-06T14:10:30.593147Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ecommerce_gamer"), path: AnchoredSystemPathBuf("apps\\frontend") }}))
+2024-10-06T14:10:30.706248Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-06T14:10:30.892498Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\frontend\\.next")}
+2024-10-06T14:10:30.892514Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ecommerce_gamer"), path: AnchoredSystemPathBuf("apps\\frontend") }}))
+2024-10-06T14:10:31.039845Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-06T14:10:32.191306Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\backend")}
+2024-10-06T14:10:32.191319Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("backend"), path: AnchoredSystemPathBuf("apps\\backend") }}))
+2024-10-06T14:11:12.803001Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-10-06T14:11:12.803027Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-10-06T14:11:20.098555Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\frontend\\package.json")}
+2024-10-06T14:11:20.098581Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ecommerce_gamer"), path: AnchoredSystemPathBuf("apps\\frontend") }}))
+2024-10-06T14:11:26.779737Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-10-06T14:11:28.036076Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\backend")}
+2024-10-06T14:11:28.036107Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("backend"), path: AnchoredSystemPathBuf("apps\\backend") }}))
+2024-10-06T14:11:29.135740Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\frontend\\.next")}
+2024-10-06T14:11:29.135760Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("frontend"), path: AnchoredSystemPathBuf("apps\\frontend") }}))
+2024-10-06T14:11:29.726455Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\frontend\\.next")}
+2024-10-06T14:11:29.726476Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("frontend"), path: AnchoredSystemPathBuf("apps\\frontend") }}))
+2024-10-06T14:11:29.897879Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-06T14:11:30.937688Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\backend")}
+2024-10-06T14:11:30.937709Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("backend"), path: AnchoredSystemPathBuf("apps\\backend") }}))
+2024-10-06T14:11:31.071118Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
